@@ -1,4 +1,4 @@
-nav, a{
+nav a{
      color: #DC7633;
 }
 .here {
@@ -11,11 +11,11 @@ p {
      font-family: 'Times New Roman';
      color: #FFFFFF ;    
 }
-section, p {
+section p {
      font-family: 'Times New Roman';
      color: #1A5276 ;    
 }
-section, li {
+section li {
      font-family: 'Times New Roman';
      color: #1A5276 ;    
 }

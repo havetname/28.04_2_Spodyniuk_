@@ -3,7 +3,7 @@ nav a{
      font-size:28px;
 }
 header{
-    padding: 5%;
+    margin: 5%;
 }
 .here {
   color: #2980B9;    
@@ -32,7 +32,7 @@ h1{
       font-family: 'Times New Roman';
       color: #154360 ; 
      font-size:48px;
-     text-align:center;
+     text-align: center;
 }
 img{
   display: block;

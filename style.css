@@ -7,7 +7,7 @@ nav a{
 body {
     background-color: #5499C7;
     margin: 0 auto;
-     width: 800 px;
+     width: 800px;
 }
 p{
      font-family: 'Times New Roman';
@@ -17,17 +17,17 @@ p{
 section p {
      font-family: 'Times New Roman';
      color: #1A5276 ; 
-     font-size:14 px;
+     font-size:14px;
 }
 section li{
      font-family: 'Times New Roman';
      color: #FFFFFF ; 
-     font-size:14 px;
+     font-size:14px;
 }
 h1{
       font-family: 'Times New Roman';
       color: #154360 ; 
-     font-size:24 px;
+     font-size:24px;
 }
 img{
   display: block;

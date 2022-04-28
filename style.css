@@ -1,34 +1,36 @@
 nav a{
      color: #DC7633;
 }
+nav {
+    padding: 5%;
+}
 .here {
   color: #2980B9;    
 }
 body {
     background-color: #5499C7;
     margin: 0 auto;
-    background-size: 50%;
   
 }
 p{
      font-family: 'Times New Roman';
      color: #FFFFFF ; 
-     font-size:14px;
+     font-size:28px;
 }
 section p {
      font-family: 'Times New Roman';
      color: #1A5276 ; 
-     font-size:14px;
+     font-size:28px;
 }
 section li{
      font-family: 'Times New Roman';
      color: #FFFFFF ; 
-     font-size:14px;
+     font-size:28px;
 }
 h1{
       font-family: 'Times New Roman';
       color: #154360 ; 
-     font-size:24px;
+     font-size:48px;
 }
 img{
   display: block;

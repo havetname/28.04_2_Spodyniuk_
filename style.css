@@ -3,7 +3,7 @@ nav a{
      font-size:28px;
 }
 header{
-    margin: 5%;
+    margin-left: 5%;
 }
 .here {
   color: #2980B9;    
@@ -39,5 +39,5 @@ img{
   margin: 0 auto;
 }
 main {
-  padding: 5%;
+  padding-left: 5%;
 }

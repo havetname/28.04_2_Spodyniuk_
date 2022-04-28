@@ -8,7 +8,7 @@ body {
     background-color: #5499C7;
     margin: 0 auto;
     background-size: 50%;
-    padding: 5%;
+  
 }
 p{
      font-family: 'Times New Roman';
@@ -33,4 +33,7 @@ h1{
 img{
   display: block;
   margin: 0 auto;
+}
+main {
+  padding: 5%;
 }

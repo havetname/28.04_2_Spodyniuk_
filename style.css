@@ -24,5 +24,6 @@ h1 {
       color: #154360 ;    
 }
 img {
- text-align: center;
+  display: block;
+  margin: 0 auto;
 }
